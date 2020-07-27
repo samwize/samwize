@@ -1,9 +1,5 @@
-<img src="http://just2me.com/img/2016-ussr.png" style="float:right;" />
+![](singapore.jpg)
 
-My name is J⋃⋂D⋀
-from Singapore
-graduated from NUS in 2008
-with a Bachelor in Computing (Comp Eng)
-
-My technical blog is at [samwize.com](https://samwize.com)
-where I write mostly about iOS development
+- Technical blog @ [samwize.com](https://samwize.com)
+- App portfolio @ [just2us.com](https://just2us.com)
+- Personal blog @ [just2me.com](https://just2me.com)
