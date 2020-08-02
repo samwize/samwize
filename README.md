@@ -1,5 +1,7 @@
 [![](https://github.com/samwize/samwize/blob/master/singapore.jpg?raw=true)](https://just2me.com/about)
 
+Making apps from Singapore.
+
 ## Technical blog @ [samwize.com](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
