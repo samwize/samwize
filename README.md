@@ -4,6 +4,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/samwize?label=Follow)](https://twitter.com/samwize)
 [![Linkedin: junda](https://img.shields.io/badge/-Junda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junda/)](https://www.linkedin.com/in/junda/)
+[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/242682)](https://stackoverflow.com/users/242682/samwize)
 
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
