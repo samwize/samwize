@@ -1,6 +1,9 @@
 [![](https://github.com/samwize/samwize/blob/master/singapore.jpg?raw=true)](https://just2me.com/about)
 
-Making [apps](https://just2us.com/apps) from Singapore 🇸🇬 
+👋🏻 Hi, my name is J⋃⋂D⋀. I make [apps](https://just2us.com/apps) in Singapore 🇸🇬
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/samwize?label=Follow)](https://twitter.com/samwize)
+[![Linkedin: junda](https://img.shields.io/badge/-Junda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junda/)](https://www.linkedin.com/in/junda/)
 
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
