@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Regex Replace Using Atom](https://samwize.com/2020/08/17/regex-replace-using-atom/)
 - [Apple Is Killing Radio Apps](https://samwize.com/2020/08/14/apple-is-killing-radio-apps/)
 - [Apple Is Guilty](https://samwize.com/2020/07/30/apple-is-guilty/)
 - [What Is Wrong With Xcode 12 Tabs](https://samwize.com/2020/07/28/what-is-wrong-with-xcode-12-tabs/)
@@ -16,7 +17,6 @@
 - [NavigationView for iOS and macOS](https://samwize.com/2020/07/21/guide-to-navigationview-for-ios-and-macos/)
 - [How to Present Full Screen Modal in SwiftUI](https://samwize.com/2020/07/21/how-to-present-full-screen-modal-in-swiftui/)
 - [How to Localize Resources in Swift Packages](https://samwize.com/2020/07/16/how-to-localize-resources-in-swift-packages/)
-- [Ideal Xcode Project Structure](https://samwize.com/2020/06/30/ideal-xcode-project-structure/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
