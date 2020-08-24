@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [iOS 14 Photo Access for Add Only](https://samwize.com/2020/08/24/ios-14-photo-access-add-only/)
 - [Navigating Xcode 12 and Tabs](https://samwize.com/2020/08/21/navigating-xcode-12-and-tabs/)
 - [Regex Replace Using Atom](https://samwize.com/2020/08/17/regex-replace-using-atom/)
 - [Apple Is Killing Radio Apps](https://samwize.com/2020/08/14/apple-is-killing-radio-apps/)
@@ -16,7 +17,6 @@
 - [What Is Wrong With Xcode 12 Tabs](https://samwize.com/2020/07/28/what-is-wrong-with-xcode-12-tabs/)
 - [Platform Conditional Codes](https://samwize.com/2020/07/22/platform-conditional-codes/)
 - [NavigationView for iOS and macOS](https://samwize.com/2020/07/21/guide-to-navigationview-for-ios-and-macos/)
-- [How to Present Full Screen Modal in SwiftUI](https://samwize.com/2020/07/21/how-to-present-full-screen-modal-in-swiftui/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
