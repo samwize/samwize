@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Handle 3D Touch Shortcut for UIScene](https://samwize.com/2020/10/10/how-to-handle-3d-touch-shortcut-for-uiscene/)
 - [How to Handle Deeplink for UIScene](https://samwize.com/2020/10/09/how-to-handle-deeplink-for-uiscene/)
 - [iOS 14 Photo Access for Add Only](https://samwize.com/2020/08/24/ios-14-photo-access-add-only/)
 - [Navigating Xcode 12 and Tabs](https://samwize.com/2020/08/21/navigating-xcode-12-and-tabs/)
@@ -16,7 +17,6 @@
 - [Apple Is Killing Radio Apps](https://samwize.com/2020/08/14/apple-is-killing-radio-apps/)
 - [Apple Is Guilty](https://samwize.com/2020/07/30/apple-is-guilty/)
 - [What Is Wrong With Xcode 12 Tabs](https://samwize.com/2020/07/28/what-is-wrong-with-xcode-12-tabs/)
-- [Platform Conditional Codes](https://samwize.com/2020/07/22/platform-conditional-codes/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
