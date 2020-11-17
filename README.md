@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [youtube-dl Fights Back!](https://samwize.com/2020/11/17/youtube-dl-fights-back/)
 - [Bump Version Numbers](https://samwize.com/2020/10/26/bump-version-numbers/)
 - [Guide to WidgetKit](https://samwize.com/2020/10/12/guide-to-widgetkit/)
 - [How to Handle 3D Touch Shortcut for UIScene](https://samwize.com/2020/10/10/how-to-handle-3d-touch-shortcut-for-uiscene/)
@@ -16,7 +17,6 @@
 - [iOS 14 Photo Access for Add Only](https://samwize.com/2020/08/24/ios-14-photo-access-add-only/)
 - [Navigating Xcode 12 and Tabs](https://samwize.com/2020/08/21/navigating-xcode-12-and-tabs/)
 - [Regex Replace Using Atom](https://samwize.com/2020/08/17/regex-replace-using-atom/)
-- [Apple Is Killing Radio Apps](https://samwize.com/2020/08/14/apple-is-killing-radio-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
