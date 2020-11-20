@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Using xcconfig to Configure to Your Developer Account](https://samwize.com/2020/11/20/using-xcconfig-to-configure-to-your-developer-account/)
 - [youtube-dl Fights Back!](https://samwize.com/2020/11/17/youtube-dl-fights-back/)
 - [Bump Version Numbers](https://samwize.com/2020/10/26/bump-version-numbers/)
 - [Guide to WidgetKit](https://samwize.com/2020/10/12/guide-to-widgetkit/)
@@ -16,7 +17,6 @@
 - [How to Handle Deeplink for UIScene](https://samwize.com/2020/10/09/how-to-handle-deeplink-for-uiscene/)
 - [iOS 14 Photo Access for Add Only](https://samwize.com/2020/08/24/ios-14-photo-access-add-only/)
 - [Navigating Xcode 12 and Tabs](https://samwize.com/2020/08/21/navigating-xcode-12-and-tabs/)
-- [Regex Replace Using Atom](https://samwize.com/2020/08/17/regex-replace-using-atom/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
