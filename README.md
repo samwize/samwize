@@ -9,14 +9,14 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [My Technical Interview with TikTok iOS, Singapore](https://samwize.com/2020/11/21/my-technical-interview-with-tiktok-ios-singapore/)
 - [Using xcconfig to Configure to Your Developer Account](https://samwize.com/2020/11/20/using-xcconfig-to-configure-to-your-developer-account/)
 - [youtube-dl Fights Back!](https://samwize.com/2020/11/17/youtube-dl-fights-back/)
+- [Exponential Power in Swift](https://samwize.com/2020/11/13/exponential-power-in-swift/)
+- [Fundamentals of Swift Collections](https://samwize.com/2020/11/04/fundamentals-of-swift-collections/)
 - [Bump Version Numbers](https://samwize.com/2020/10/26/bump-version-numbers/)
 - [Guide to WidgetKit](https://samwize.com/2020/10/12/guide-to-widgetkit/)
 - [How to Handle 3D Touch Shortcut for UIScene](https://samwize.com/2020/10/10/how-to-handle-3d-touch-shortcut-for-uiscene/)
-- [How to Handle Deeplink for UIScene](https://samwize.com/2020/10/09/how-to-handle-deeplink-for-uiscene/)
-- [iOS 14 Photo Access for Add Only](https://samwize.com/2020/08/24/ios-14-photo-access-add-only/)
-- [Navigating Xcode 12 and Tabs](https://samwize.com/2020/08/21/navigating-xcode-12-and-tabs/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
