@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Improve UI Performance: Render Hitch](https://samwize.com/2020/12/24/improve-ui-performance-render-hitch/)
 - [My Technical Interview with TikTok iOS, Singapore](https://samwize.com/2020/11/21/my-technical-interview-with-tiktok-ios-singapore/)
 - [Using xcconfig to Configure to Your Developer Account](https://samwize.com/2020/11/20/using-xcconfig-to-configure-to-your-developer-account/)
 - [youtube-dl Fights Back!](https://samwize.com/2020/11/17/youtube-dl-fights-back/)
@@ -16,7 +17,6 @@
 - [Fundamentals of Swift Collections](https://samwize.com/2020/11/04/fundamentals-of-swift-collections/)
 - [Bump Version Numbers](https://samwize.com/2020/10/26/bump-version-numbers/)
 - [Guide to WidgetKit](https://samwize.com/2020/10/12/guide-to-widgetkit/)
-- [How to Handle 3D Touch Shortcut for UIScene](https://samwize.com/2020/10/10/how-to-handle-3d-touch-shortcut-for-uiscene/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
