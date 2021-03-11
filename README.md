@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Do NOT Implement Google UMP for iOS 14 IDFA](https://samwize.com/2021/03/11/do-not-implement-google-ump-pre-permission-prompt-for-ios-14-idfa/)
 - [Improve UI Performance: Render Hitch](https://samwize.com/2020/12/24/improve-ui-performance-render-hitch/)
 - [My Technical Interview with TikTok iOS, Singapore](https://samwize.com/2020/11/21/my-technical-interview-with-tiktok-ios-singapore/)
 - [Using xcconfig to Configure to Your Developer Account](https://samwize.com/2020/11/20/using-xcconfig-to-configure-to-your-developer-account/)
@@ -16,7 +17,6 @@
 - [Exponential Power in Swift](https://samwize.com/2020/11/13/exponential-power-in-swift/)
 - [Fundamentals of Swift Collections](https://samwize.com/2020/11/04/fundamentals-of-swift-collections/)
 - [Bump Version Numbers](https://samwize.com/2020/10/26/bump-version-numbers/)
-- [Guide to WidgetKit](https://samwize.com/2020/10/12/guide-to-widgetkit/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
