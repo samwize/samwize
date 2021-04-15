@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Unexpected Mach-O Header Code: 0x72613c21 ERROR](https://samwize.com/2021/04/15/unexpected-mach-o-header-code-0x72613c21-error/)
 - [Troubleshooting an iPhone That Won't Turn On](https://samwize.com/2021/03/24/troubleshooting-an-iphone-that-wont-turn-on/)
 - [Do NOT Implement Google UMP for iOS 14 IDFA](https://samwize.com/2021/03/11/do-not-implement-google-ump-pre-permission-prompt-for-ios-14-idfa/)
 - [Improve UI Performance: Render Hitch](https://samwize.com/2020/12/24/improve-ui-performance-render-hitch/)
@@ -16,7 +17,6 @@
 - [Using xcconfig to Configure to Your Developer Account](https://samwize.com/2020/11/20/using-xcconfig-to-configure-to-your-developer-account/)
 - [youtube-dl Fights Back!](https://samwize.com/2020/11/17/youtube-dl-fights-back/)
 - [Exponential Power in Swift](https://samwize.com/2020/11/13/exponential-power-in-swift/)
-- [Fundamentals of Swift Collections](https://samwize.com/2020/11/04/fundamentals-of-swift-collections/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
