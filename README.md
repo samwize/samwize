@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Using ffmpeg on M1 Mac](https://samwize.com/2021/07/13/using-ffmpeg-on-m1-mac/)
 - [Load Web Fonts Asynchronously (for Webpages)](https://samwize.com/2021/04/29/load-web-fonts-asynchronously-for-webpages/)
 - [Unexpected Mach-O Header Code: 0x72613c21 ERROR](https://samwize.com/2021/04/15/unexpected-mach-o-header-code-0x72613c21-error/)
 - [Troubleshooting an iPhone That Won't Turn On](https://samwize.com/2021/03/24/troubleshooting-an-iphone-that-wont-turn-on/)
@@ -16,7 +17,6 @@
 - [Improve UI Performance: Render Hitch](https://samwize.com/2020/12/24/improve-ui-performance-render-hitch/)
 - [My Technical Interview with TikTok iOS, Singapore](https://samwize.com/2020/11/21/my-technical-interview-with-tiktok-ios-singapore/)
 - [Using xcconfig to Configure to Your Developer Account](https://samwize.com/2020/11/20/using-xcconfig-to-configure-to-your-developer-account/)
-- [youtube-dl Fights Back!](https://samwize.com/2020/11/17/youtube-dl-fights-back/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
