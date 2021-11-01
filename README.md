@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Add Data to HealthKit](https://samwize.com/2021/11/01/how-to-add-data-to-healthkit/)
 - [Warning if You Use HealthKit, Another App Review Rejection](https://samwize.com/2021/11/01/warning-if-you-use-healthkit-another-app-review-rejection/)
 - [Shortcut to Dismiss Mac Notification](https://samwize.com/2021/10/14/shortcut-to-dismiss-mac-notification/)
 - [URLSession with new async/await](https://samwize.com/2021/10/12/urlsession-with-new-async-await/)
@@ -16,7 +17,6 @@
 - [Use SMB (and Disable AFP) to Connect your Mac to NAS](https://samwize.com/2021/07/15/use-smb-disable-afp-to-connect-mac-to-nas/)
 - [Using ffmpeg on M1 Mac](https://samwize.com/2021/07/13/using-ffmpeg-on-m1-mac/)
 - [Load Web Fonts Asynchronously (for Webpages)](https://samwize.com/2021/04/29/load-web-fonts-asynchronously-for-webpages/)
-- [Unexpected Mach-O Header Code: 0x72613c21 ERROR](https://samwize.com/2021/04/15/unexpected-mach-o-header-code-0x72613c21-error/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
