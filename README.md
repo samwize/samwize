@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Migrating Octopress to Jekyll with Github Pages](https://samwize.com/2021/11/02/migrating-octopress-to-jekyll-with-github-pages/)
 - [How to Add Data to HealthKit](https://samwize.com/2021/11/01/how-to-add-data-to-healthkit/)
 - [Warning if You Use HealthKit, Another App Review Rejection](https://samwize.com/2021/11/01/warning-if-you-use-healthkit-another-app-review-rejection/)
 - [Shortcut to Dismiss Mac Notification](https://samwize.com/2021/10/14/shortcut-to-dismiss-mac-notification/)
@@ -16,7 +17,6 @@
 - [Structured Concurrency in Swift 5.5](https://samwize.com/2021/10/12/structured-concurrency-in-swift-5-5/)
 - [Use SMB (and Disable AFP) to Connect your Mac to NAS](https://samwize.com/2021/07/15/use-smb-disable-afp-to-connect-mac-to-nas/)
 - [Using ffmpeg on M1 Mac](https://samwize.com/2021/07/13/using-ffmpeg-on-m1-mac/)
-- [Load Web Fonts Asynchronously (for Webpages)](https://samwize.com/2021/04/29/load-web-fonts-asynchronously-for-webpages/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
