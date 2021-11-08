@@ -15,7 +15,7 @@
 - [Shortcut to Dismiss Mac Notification](https://samwize.com/2021/10/14/shortcut-to-dismiss-mac-notification/)
 - [URLSession with new async/await](https://samwize.com/2021/10/12/urlsession-with-new-async-await/)
 - [Structured Concurrency in Swift 5.5](https://samwize.com/2021/10/12/structured-concurrency-in-swift-5-5/)
-- [Use SMB (and Disable AFP) to Connect your Mac to NAS](https://samwize.com/2021/07/15/use-smb-disable-afp-to-connect-mac-to-nas/)
+- [Use SMB &lpar;and Disable AFP&rpar; to Connect your Mac to NAS](https://samwize.com/2021/07/15/use-smb-disable-afp-to-connect-mac-to-nas/)
 - [Using ffmpeg on M1 Mac](https://samwize.com/2021/07/13/using-ffmpeg-on-m1-mac/)
 <!-- BLOG-POST-LIST:END -->
 
