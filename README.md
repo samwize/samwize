@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [A gitattributes template for Xcode projects](https://samwize.com/2022/05/27/gitattributes-templatefor-xcode-projects/)
 - [How to use a different Swift toolchain in Xcode](https://samwize.com/2022/05/23/how-to-use-a-different-swift-toolchain-in-xcode/)
 - [How to code sign on CI along with Xcode auto sign](https://samwize.com/2022/04/28/how-to-code-sign-on-ci-cd-along-with-xcode-auto-sign/)
 - [Run swiftlint in pre-commit hook](https://samwize.com/2022/04/22/run-swiftlint-in-pre-commit-hook/)
@@ -16,7 +17,6 @@
 - [Managing multiple github SSH keys on mac](https://samwize.com/2022/04/06/managing-multiple-github-ssh-keys-on-mac/)
 - [How to communicate between SwiftUI and UIKit?](https://samwize.com/2022/03/24/how-to-communicate-between-swiftui-and-uikit/)
 - [When should you raise your iOS Deployment Target/minimum version?](https://samwize.com/2022/03/22/when-should-you-raise-your-ios-deployment-target-minimum-version/)
-- [Swift 5.6 warning on self](https://samwize.com/2022/03/21/swift-5-6-warning-on-self/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
