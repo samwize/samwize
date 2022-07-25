@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to inject a property](https://samwize.com/2022/07/25/how-to-inject-a-property/)
 - [How to use URLProtocol to mock networking API](https://samwize.com/2022/07/07/how-to-use-urlprotocol-to-mock-networking-api/)
 - [Asset Catalog and Dark Mode](https://samwize.com/2022/06/29/asset-catalog-and-dark-mode/)
 - [A gitattributes template for Xcode projects](https://samwize.com/2022/05/27/gitattributes-templatefor-xcode-projects/)
@@ -16,7 +17,6 @@
 - [How to code sign on CI along with Xcode auto sign](https://samwize.com/2022/04/28/how-to-code-sign-on-ci-cd-along-with-xcode-auto-sign/)
 - [Run swiftlint in pre-commit hook](https://samwize.com/2022/04/22/run-swiftlint-in-pre-commit-hook/)
 - [How to create a GitHub Action to upload dsyms](https://samwize.com/2022/04/19/how-to-create-a-github-action-to-upload-dsyms/)
-- [Managing multiple github SSH keys on mac](https://samwize.com/2022/04/06/managing-multiple-github-ssh-keys-on-mac/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
