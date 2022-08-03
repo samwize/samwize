@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [PITFALL: Beware of retain cycle when passing a func as a closure parameter](https://samwize.com/2022/08/03/pitfall-beware-of-retain-cycle-when-passing-a-func-as-a-closure-parameter/)
 - [How to inject a property](https://samwize.com/2022/07/25/how-to-inject-a-property/)
 - [How to use URLProtocol to mock networking API](https://samwize.com/2022/07/07/how-to-use-urlprotocol-to-mock-networking-api/)
 - [Asset Catalog and Dark Mode](https://samwize.com/2022/06/29/asset-catalog-and-dark-mode/)
@@ -16,7 +17,6 @@
 - [How to use a different Swift toolchain in Xcode](https://samwize.com/2022/05/23/how-to-use-a-different-swift-toolchain-in-xcode/)
 - [How to code sign on CI along with Xcode auto sign](https://samwize.com/2022/04/28/how-to-code-sign-on-ci-cd-along-with-xcode-auto-sign/)
 - [Run swiftlint in pre-commit hook](https://samwize.com/2022/04/22/run-swiftlint-in-pre-commit-hook/)
-- [How to create a GitHub Action to upload dsyms](https://samwize.com/2022/04/19/how-to-create-a-github-action-to-upload-dsyms/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
