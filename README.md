@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [AppStorage, and observing a Binding](https://samwize.com/2022/09/19/appstorage-and-observing-a-binding/)
 - [How to use Factory &lpar;DI&rpar; in SwiftUI](https://samwize.com/2022/09/13/how-to-use-factory-di-in-swiftui/)
 - [How to use Combine](https://samwize.com/2022/08/05/how-to-use-combine/)
 - [PITFALL: Beware of retain cycle when passing a func as a closure parameter](https://samwize.com/2022/08/03/pitfall-beware-of-retain-cycle-when-passing-a-func-as-a-closure-parameter/)
@@ -16,7 +17,6 @@
 - [How to use URLProtocol to mock networking API](https://samwize.com/2022/07/07/how-to-use-urlprotocol-to-mock-networking-api/)
 - [Asset Catalog and Dark Mode](https://samwize.com/2022/06/29/asset-catalog-and-dark-mode/)
 - [A gitattributes template for Xcode projects](https://samwize.com/2022/05/27/gitattributes-templatefor-xcode-projects/)
-- [How to use a different Swift toolchain in Xcode](https://samwize.com/2022/05/23/how-to-use-a-different-swift-toolchain-in-xcode/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
