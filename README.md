@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to launch iPhone simulator with arguments](https://samwize.com/2022/10/11/how-to-launch-iphone-simulator-from-the-command-line-with-arguments/)
 - [Pitfall of Nested ObservableObject](https://samwize.com/2022/09/30/pitfall-of-nested-observableobject/)
 - [Replacing if let in Swift 5.7](https://samwize.com/2022/09/22/replacing-if-let-in-swift-5-7/)
 - [AppStorage, and observing a Binding](https://samwize.com/2022/09/19/appstorage-and-observing-a-binding/)
@@ -16,7 +17,6 @@
 - [How to use Combine](https://samwize.com/2022/08/05/how-to-use-combine/)
 - [PITFALL: Beware of retain cycle when passing a func as a closure parameter](https://samwize.com/2022/08/03/pitfall-beware-of-retain-cycle-when-passing-a-func-as-a-closure-parameter/)
 - [How to inject a property](https://samwize.com/2022/07/25/how-to-inject-a-property/)
-- [How to use URLProtocol to mock networking API](https://samwize.com/2022/07/07/how-to-use-urlprotocol-to-mock-networking-api/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
