@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Improve App Launch Time 2022 Edition](https://samwize.com/2022/11/01/improve-app-launch-time-2022/)
 - [Reducing Xcode debugger logs](https://samwize.com/2022/10/29/reduce-xcode-debugger-logs/)
 - [Run Github Action when tag is pushed on a specific branch](https://samwize.com/2022/10/28/running-github-action-when-tag-pushed-on-a-specific-branch/)
 - [How to launch iPhone simulator with arguments](https://samwize.com/2022/10/11/how-to-launch-iphone-simulator-from-the-command-line-with-arguments/)
@@ -16,7 +17,6 @@
 - [Replacing if let in Swift 5.7](https://samwize.com/2022/09/22/replacing-if-let-in-swift-5-7/)
 - [AppStorage, and observing a Binding](https://samwize.com/2022/09/19/appstorage-and-observing-a-binding/)
 - [How to use Factory &lpar;DI&rpar; in SwiftUI](https://samwize.com/2022/09/13/how-to-use-factory-di-in-swiftui/)
-- [How to use Combine](https://samwize.com/2022/08/05/how-to-use-combine/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
