@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to resolve merge conflicts for long-lived branches](https://samwize.com/2022/12/15/tips-to-resolve-merge-conflicts-for-long-lived-branches/)
 - [Improve App Launch Time 2022 Edition](https://samwize.com/2022/11/01/improve-app-launch-time-2022/)
 - [Reducing Xcode debugger logs](https://samwize.com/2022/10/29/reduce-xcode-debugger-logs/)
 - [Run Github Action when tag is pushed on a specific branch](https://samwize.com/2022/10/28/running-github-action-when-tag-pushed-on-a-specific-branch/)
@@ -16,7 +17,6 @@
 - [Pitfall of Nested ObservableObject](https://samwize.com/2022/09/30/pitfall-of-nested-observableobject/)
 - [Replacing if let in Swift 5.7](https://samwize.com/2022/09/22/replacing-if-let-in-swift-5-7/)
 - [AppStorage, and observing a Binding](https://samwize.com/2022/09/19/appstorage-and-observing-a-binding/)
-- [How to use Factory &lpar;DI&rpar; in SwiftUI](https://samwize.com/2022/09/13/how-to-use-factory-di-in-swiftui/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
