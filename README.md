@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [The dumbest thing about imageLiteral](https://samwize.com/2023/01/09/the-dumbest-thing-about-imageliteral/)
 - [Should you squash merge in a pull request &lpar;PR&rpar;?](https://samwize.com/2022/12/29/should-you-squash-merge-in-a-pull-request-pr/)
 - [How to resolve merge conflicts for long-lived branches](https://samwize.com/2022/12/15/tips-to-resolve-merge-conflicts-for-long-lived-branches/)
 - [Improve App Launch Time 2022 Edition](https://samwize.com/2022/11/01/improve-app-launch-time-2022/)
@@ -16,7 +17,6 @@
 - [Run Github Action when tag is pushed on a specific branch](https://samwize.com/2022/10/28/running-github-action-when-tag-pushed-on-a-specific-branch/)
 - [How to launch iPhone simulator with arguments](https://samwize.com/2022/10/11/how-to-launch-iphone-simulator-from-the-command-line-with-arguments/)
 - [Pitfall of Nested ObservableObject](https://samwize.com/2022/09/30/pitfall-of-nested-observableobject/)
-- [Replacing if let in Swift 5.7](https://samwize.com/2022/09/22/replacing-if-let-in-swift-5-7/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
