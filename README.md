@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Disconnect your app from unit testing](https://samwize.com/2023/01/18/disconnect-your-app-from-unit-testing/)
 - [The dumbest thing about imageLiteral](https://samwize.com/2023/01/09/the-dumbest-thing-about-imageliteral/)
 - [Should you squash merge in a pull request &lpar;PR&rpar;?](https://samwize.com/2022/12/29/should-you-squash-merge-in-a-pull-request-pr/)
 - [How to resolve merge conflicts for long-lived branches](https://samwize.com/2022/12/15/tips-to-resolve-merge-conflicts-for-long-lived-branches/)
@@ -16,7 +17,6 @@
 - [Reducing Xcode debugger logs](https://samwize.com/2022/10/29/reduce-xcode-debugger-logs/)
 - [Run Github Action when tag is pushed on a specific branch](https://samwize.com/2022/10/28/running-github-action-when-tag-pushed-on-a-specific-branch/)
 - [How to launch iPhone simulator with arguments](https://samwize.com/2022/10/11/how-to-launch-iphone-simulator-from-the-command-line-with-arguments/)
-- [Pitfall of Nested ObservableObject](https://samwize.com/2022/09/30/pitfall-of-nested-observableobject/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
