@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to create table using UICollectionView](https://samwize.com/2023/04/06/how-to-create-table-using-uicollectionview/)
 - [StackOverflow traffic is declining](https://samwize.com/2023/04/03/stackoverflow-traffic-is-declining/)
 - [Xcode Header Template for Swift Packages](https://samwize.com/2023/02/28/xcode-header-template-for-swift-packages/)
 - [Disconnect your app from unit testing](https://samwize.com/2023/01/18/disconnect-your-app-from-unit-testing/)
@@ -16,7 +17,6 @@
 - [Should you squash merge in a pull request &lpar;PR&rpar;?](https://samwize.com/2022/12/29/should-you-squash-merge-in-a-pull-request-pr/)
 - [How to resolve merge conflicts for long-lived branches](https://samwize.com/2022/12/15/tips-to-resolve-merge-conflicts-for-long-lived-branches/)
 - [Improve App Launch Time 2022 Edition](https://samwize.com/2022/11/01/improve-app-launch-time-2022/)
-- [Reducing Xcode debugger logs](https://samwize.com/2022/10/29/reduce-xcode-debugger-logs/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
