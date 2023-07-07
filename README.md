@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Guide to Apple Sign In](https://samwize.com/2023/07/07/guide-to-apple-sign-in/)
 - [The best way to bump build number in CI](https://samwize.com/2023/05/25/the-best-way-to-bump-build-number-in-ci/)
 - [Speed up pods &amp; gem install in Github Action](https://samwize.com/2023/05/24/speed-up-pods-and-gem-install-in-github-action/)
 - [How to add Google interstitial ad](https://samwize.com/2023/05/21/how-to-add-google-interstitial-ad/)
@@ -16,7 +17,6 @@
 - [Guide to integrating Google Ad Manager](https://samwize.com/2023/05/19/guide-to-integrating-google-ad-manager/)
 - [Fastlane is in shambles](https://samwize.com/2023/05/17/fastlane-is-in-shambles/)
 - [AppDelegate template for a multiplatform SwiftUI app](https://samwize.com/2023/05/10/appdelegate-template-for-a-multiplatform-swiftui-app/)
-- [No more Info.plist &amp; Launch Storyboard](https://samwize.com/2023/05/09/no-more-info-plist-launch-storyboard/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
