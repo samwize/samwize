@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Swift public vs final vs open](https://samwize.com/2023/12/29/swfit-public-vs-final-vs-open/)
 - [Should you add final to all your Swift classes?](https://samwize.com/2023/12/15/should-you-add-final-to-all-your-swift-classes/)
 - [PITFALL: Removing arranged subview in UIStackView](https://samwize.com/2023/10/30/pitfall-removing-arranged-subview-in-uistackview/)
 - [How to use the new Regex with literal slash syntax](https://samwize.com/2023/10/01/how-to-use-the-new-regex-with-literal-slash-syntax/)
@@ -16,7 +17,6 @@
 - [How to git clone all repositories of a user](https://samwize.com/2023/07/11/how-to-git-clone-all-repositories-of-a-user/)
 - [Guide to Apple Sign In](https://samwize.com/2023/07/07/guide-to-apple-sign-in/)
 - [The best way to bump build number in CI](https://samwize.com/2023/05/25/the-best-way-to-bump-build-number-in-ci/)
-- [Speed up pods &amp; gem install in Github Action](https://samwize.com/2023/05/24/speed-up-pods-and-gem-install-in-github-action/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
