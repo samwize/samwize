@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [macOS Safari keeps require re-login bug](https://samwize.com/2024/01/10/macos-safari-keeps-require-re-login-bug/)
 - [Swift public vs final vs open](https://samwize.com/2023/12/29/swfit-public-vs-final-vs-open/)
 - [Should you add final to all your Swift classes?](https://samwize.com/2023/12/15/should-you-add-final-to-all-your-swift-classes/)
 - [PITFALL: Removing arranged subview in UIStackView](https://samwize.com/2023/10/30/pitfall-removing-arranged-subview-in-uistackview/)
@@ -16,7 +17,6 @@
 - [Why you should use OSLog in 2023](https://samwize.com/2023/07/25/why-you-should-use-oslog-in-2023/)
 - [How to git clone all repositories of a user](https://samwize.com/2023/07/11/how-to-git-clone-all-repositories-of-a-user/)
 - [Guide to Apple Sign In](https://samwize.com/2023/07/07/guide-to-apple-sign-in/)
-- [The best way to bump build number in CI](https://samwize.com/2023/05/25/the-best-way-to-bump-build-number-in-ci/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
