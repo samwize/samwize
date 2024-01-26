@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [App Store changes in EU, allowing alternative marketplace](https://samwize.com/2024/01/26/app-store-changes-in-eu-allowing-alternative-marketplace/)
 - [My Talk at iOS Conf SG 2024](https://samwize.com/2024/01/18/my-talk-at-ios-conf-sg-2024/)
 - [SwiftUI Observable in iOS 17](https://samwize.com/2024/01/15/swiftui-observable-in-ios-17/)
 - [macOS Safari keeps require re-login bug](https://samwize.com/2024/01/10/macos-safari-keeps-require-re-login-bug/)
@@ -16,7 +17,6 @@
 - [Should you add final to all your Swift classes?](https://samwize.com/2023/12/15/should-you-add-final-to-all-your-swift-classes/)
 - [PITFALL: Removing arranged subview in UIStackView](https://samwize.com/2023/10/30/pitfall-removing-arranged-subview-in-uistackview/)
 - [How to use the new Regex with literal slash syntax](https://samwize.com/2023/10/01/how-to-use-the-new-regex-with-literal-slash-syntax/)
-- [Why you should use OSLog in 2023](https://samwize.com/2023/07/25/why-you-should-use-oslog-in-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
