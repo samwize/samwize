@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to escape a URL as a query in a URL](https://samwize.com/2024/05/07/how-to-escape-a-url-as-a-query-in-a-url/)
 - [How to create AsyncStream with a publisher](https://samwize.com/2024/05/06/how-to-create-asyncstream-with-a-publisher/)
 - [How to get/set keypath using string](https://samwize.com/2024/04/01/how-to-get-set-keypath-using-string/)
 - [App Store changes in EU, allowing alternative marketplace](https://samwize.com/2024/01/26/app-store-changes-in-eu-allowing-alternative-marketplace/)
@@ -16,7 +17,6 @@
 - [SwiftUI Observable in iOS 17](https://samwize.com/2024/01/15/swiftui-observable-in-ios-17/)
 - [macOS Safari keeps require re-login bug](https://samwize.com/2024/01/10/macos-safari-keeps-require-re-login-bug/)
 - [Swift public vs final vs open](https://samwize.com/2023/12/29/swfit-public-vs-final-vs-open/)
-- [Should you add final to all your Swift classes?](https://samwize.com/2023/12/15/should-you-add-final-to-all-your-swift-classes/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
