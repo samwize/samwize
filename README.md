@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [PITFALL: SwiftUI swipeActions not working](https://samwize.com/2024/06/09/pitfall-swiftui-swipeactions-not-working/)
 - [Remove unused code with Periphery](https://samwize.com/2024/05/30/remove-unused-code-with-periphery/)
 - [Do NOT init State externally in SwiftUI](https://samwize.com/2024/05/08/do-not-init-state-externally-in-swiftui-view/)
 - [How to escape a URL as a query in a URL](https://samwize.com/2024/05/07/how-to-escape-a-url-as-a-query-in-a-url/)
@@ -16,7 +17,6 @@
 - [How to get/set keypath using string](https://samwize.com/2024/04/01/how-to-get-set-keypath-using-string/)
 - [App Store changes in EU, allowing alternative marketplace](https://samwize.com/2024/01/26/app-store-changes-in-eu-allowing-alternative-marketplace/)
 - [My Talk at iOS Conf SG 2024](https://samwize.com/2024/01/18/my-talk-at-ios-conf-sg-2024/)
-- [SwiftUI Observable in iOS 17](https://samwize.com/2024/01/15/swiftui-observable-in-ios-17/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
