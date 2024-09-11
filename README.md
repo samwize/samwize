@@ -11,12 +11,12 @@
 <!-- BLOG-POST-LIST:START -->
 - [Custom SwiftUI View supporting Text, LocalizedStringKey and String](https://samwize.com/2024/08/05/custom-swiftui-view-supporting-text-localizedstringkey-and-string/)
 - [What is SwiftUI simultaneous gestures](https://samwize.com/2024/07/25/what-is-swiftui-simultaneous-gestures/)
+- [Practical examples using The Composable Architecture &lpar;TCA&rpar;](https://samwize.com/2024/06/27/practical-examples-using-the-composable-architecture-tca/)
 - [PITFALL: SwiftUI swipeActions not working](https://samwize.com/2024/06/09/pitfall-swiftui-swipeactions-not-working/)
 - [Remove unused code with Periphery](https://samwize.com/2024/05/30/remove-unused-code-with-periphery/)
 - [Do NOT init State externally in SwiftUI](https://samwize.com/2024/05/08/do-not-init-state-externally-in-swiftui-view/)
 - [How to escape a URL as a query in a URL](https://samwize.com/2024/05/07/how-to-escape-a-url-as-a-query-in-a-url/)
 - [How to create AsyncStream with a publisher](https://samwize.com/2024/05/06/how-to-create-asyncstream-with-a-publisher/)
-- [How to get/set keypath using string](https://samwize.com/2024/04/01/how-to-get-set-keypath-using-string/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
