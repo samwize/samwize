@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to make ScrollView content fill available space](https://samwize.com/2025/07/07/how-to-make-scrollview-content-fill-available-space/)
 - [Plurals with SwiftUI](https://samwize.com/2025/04/11/plurals-with-swiftui/)
 - [Custom SwiftUI View supporting Text, LocalizedStringKey and String](https://samwize.com/2024/08/05/custom-swiftui-view-supporting-text-localizedstringkey-and-string/)
 - [What is SwiftUI simultaneous gestures](https://samwize.com/2024/07/25/what-is-swiftui-simultaneous-gestures/)
@@ -16,7 +17,6 @@
 - [PITFALL: SwiftUI swipeActions not working](https://samwize.com/2024/06/09/pitfall-swiftui-swipeactions-not-working/)
 - [Remove unused code with Periphery](https://samwize.com/2024/05/30/remove-unused-code-with-periphery/)
 - [Do NOT init State externally in SwiftUI](https://samwize.com/2024/05/08/do-not-init-state-externally-in-swiftui-view/)
-- [How to escape a URL as a query in a URL](https://samwize.com/2024/05/07/how-to-escape-a-url-as-a-query-in-a-url/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
