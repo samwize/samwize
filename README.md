@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Fix Claude Code&#39;s Trailing Whitespace Problem for Swift](https://samwize.com/2025/08/25/how-to-fix-claude-code-trailing-whitespace-problem-for-swift/)
 - [The X.com embed disaster: Still broken, but we have a reverse engineered solution](https://samwize.com/2025/08/10/the-x-com-embed-disaster-still-broken-but-we-have-a-reverse-engineered-solution/)
 - [TypeScript in React: Lessons for Swift dev](https://samwize.com/2025/07/24/typescript-in-react-lessons-from-a-swift-developer/)
 - [My 10 Tips for Using Claude Code](https://samwize.com/2025/07/08/my-10-tips-for-using-claude-code/)
@@ -16,7 +17,6 @@
 - [Plurals with SwiftUI](https://samwize.com/2025/04/11/plurals-with-swiftui/)
 - [Custom SwiftUI View supporting Text, LocalizedStringKey and String](https://samwize.com/2024/08/05/custom-swiftui-view-supporting-text-localizedstringkey-and-string/)
 - [What is SwiftUI simultaneous gestures](https://samwize.com/2024/07/25/what-is-swiftui-simultaneous-gestures/)
-- [Practical examples using The Composable Architecture &lpar;TCA&rpar;](https://samwize.com/2024/06/27/practical-examples-using-the-composable-architecture-tca/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
