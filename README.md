@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Review of Whispr Flow, superwhisper, MacWhisper for vibe coding](https://samwize.com/2025/11/10/review-of-whispr-flow-superwhisper-macwhisper-for-vibe-coding/)
 - [Secret Xcode docs for Claude Code + Sosumi MCP](https://samwize.com/2025/10/25/secret-xcode-docs-for-claude-code-sosumi-mcp/)
 - [Fixing SwiftUI refreshable with The Composable Architecture](https://samwize.com/2025/09/22/fixing-swiftui-refreshable-with-the-composable-architecture/)
 - [How to Fix Claude Code&#39;s Trailing Whitespace Problem for Swift](https://samwize.com/2025/08/25/how-to-fix-claude-code-trailing-whitespace-problem-for-swift/)
@@ -16,7 +17,6 @@
 - [TypeScript in React: Lessons for Swift dev](https://samwize.com/2025/07/24/typescript-in-react-lessons-from-a-swift-developer/)
 - [My 10 Tips for Using Claude Code](https://samwize.com/2025/07/08/my-10-tips-for-using-claude-code/)
 - [How to make ScrollView content fill available space](https://samwize.com/2025/07/07/how-to-make-scrollview-content-fill-available-space/)
-- [Plurals with SwiftUI](https://samwize.com/2025/04/11/plurals-with-swiftui/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
