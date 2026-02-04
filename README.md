@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [The Codex Trap: Upgrading to Pro Won’t Unlock a New Codex Model](https://samwize.com/2026/02/04/the-codex-trap-upgrading-to-pro-won-t-unlock-a-new-codex-model/)
 - [Incremental iOS Builds with Claude Code and XcodeBuildMCP](https://samwize.com/2025/12/17/incremental-ios-builds-with-claude-code-and-xcodebuildmcp/)
 - [How to Migrate from GitHub Pages to Cloudflare Pages](https://samwize.com/2025/11/26/how-to-migrate-from-github-pages-to-cloudflare-pages/)
 - [Review of Whispr Flow, superwhisper, MacWhisper for vibe coding](https://samwize.com/2025/11/10/review-of-whispr-flow-superwhisper-macwhisper-for-vibe-coding/)
@@ -16,7 +17,6 @@
 - [Fixing SwiftUI refreshable with The Composable Architecture](https://samwize.com/2025/09/22/fixing-swiftui-refreshable-with-the-composable-architecture/)
 - [How to Fix Claude Code&#39;s Trailing Whitespace Problem for Swift](https://samwize.com/2025/08/25/how-to-fix-claude-code-trailing-whitespace-problem-for-swift/)
 - [The X.com embed disaster: Still broken, but we have a reverse engineered solution](https://samwize.com/2025/08/10/the-x-com-embed-disaster-still-broken-but-we-have-a-reverse-engineered-solution/)
-- [TypeScript in React: Lessons for Swift dev](https://samwize.com/2025/07/24/typescript-in-react-lessons-from-a-swift-developer/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
