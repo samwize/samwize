@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [I Deprecated Dotfiles and Oh My Zsh, and Moved to Chezmoi](https://samwize.com/2026/02/13/i-deprecated-dotfiles-and-oh-my-zsh-and-moved-to-chezmoi/)
 - [Control Your Mac from Your iPhone &lpar;Safely&rpar;: Tailscale + SSH + tmux](https://samwize.com/2026/02/08/control-your-mac-from-your-iphone-safely-tailscale-ssh-tmux/)
 - [macOS Built in Firewall: Quick Hardening for my MacBook](https://samwize.com/2026/02/07/macos-built-in-firewall-quick-hardening-for-my-macbook/)
 - [Setup Codex CLI notifications on macOS &lpar;iTerm2 + terminal-notifier&rpar;](https://samwize.com/2026/02/05/setup-codex-cli-notifications-on-macos-iterm2-terminal-notifier/)
@@ -16,7 +17,6 @@
 - [Incremental iOS Builds with Claude Code and XcodeBuildMCP](https://samwize.com/2025/12/17/incremental-ios-builds-with-claude-code-and-xcodebuildmcp/)
 - [How to Migrate from GitHub Pages to Cloudflare Pages](https://samwize.com/2025/11/26/how-to-migrate-from-github-pages-to-cloudflare-pages/)
 - [Review of Whispr Flow, superwhisper, MacWhisper for vibe coding](https://samwize.com/2025/11/10/review-of-whispr-flow-superwhisper-macwhisper-for-vibe-coding/)
-- [Secret Xcode docs for Claude Code + Sosumi MCP](https://samwize.com/2025/10/25/secret-xcode-docs-for-claude-code-sosumi-mcp/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
