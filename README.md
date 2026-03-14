@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Got Claude Code to Run Forever &lpar;Well, Almost&rpar;](https://samwize.com/2026/03/14/how-i-got-claude-code-to-monitor-slack-while-i-was-on-holiday/)
 - [Apple Xcode MCP vs XcodeBuild MCP: Which One Actually Helps an AI Agent Ship](https://samwize.com/2026/03/11/i-tried-apple-xcode-mcp-and-xcodebuild-mcp-only-one-feels-complete/)
 - [I Caught My AI Agent Fabricating Data to Look Busy](https://samwize.com/2026/03/10/i-caught-my-ai-agent-fabricating-data-to-look-busy/)
 - [I Deprecated Dotfiles and Oh My Zsh, and Moved to Chezmoi](https://samwize.com/2026/02/13/i-deprecated-dotfiles-and-oh-my-zsh-and-moved-to-chezmoi/)
@@ -16,7 +17,6 @@
 - [macOS Built in Firewall: Quick Hardening for my MacBook](https://samwize.com/2026/02/07/macos-built-in-firewall-quick-hardening-for-my-macbook/)
 - [Setup Codex CLI notifications on macOS &lpar;iTerm2 + terminal-notifier&rpar;](https://samwize.com/2026/02/05/setup-codex-cli-notifications-on-macos-iterm2-terminal-notifier/)
 - [The Codex Trap: Upgrading to Pro Won’t Unlock a New Codex Model](https://samwize.com/2026/02/04/the-codex-trap-upgrading-to-pro-won-t-unlock-a-new-codex-model/)
-- [Incremental iOS Builds with Claude Code and XcodeBuildMCP](https://samwize.com/2025/12/17/incremental-ios-builds-with-claude-code-and-xcodebuildmcp/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
