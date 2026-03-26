@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Set Up Chrome DevTools MCP for Claude Code](https://samwize.com/2026/03/26/how-to-set-up-chrome-devtools-mcp-for-claude-code/)
 - [What Your AI Code Reviewer Actually &lpar;Prompts&rpar; Behind Your Back](https://samwize.com/2026/03/25/what-your-ai-code-reviewer-actually-prompts-behind-your-back/)
 - [AI Agents Write the Code Now. So What&#39;s a Developer For?](https://samwize.com/2026/03/24/ai-agents-write-the-code-now-so-whats-a-developer-for/)
 - [tmux cheatsheet](https://samwize.com/2026/03/23/tmux-cheatsheet/)
@@ -16,7 +17,6 @@
 - [Apple Xcode MCP vs XcodeBuild MCP: Which One Actually Helps an AI Agent Ship](https://samwize.com/2026/03/11/i-tried-apple-xcode-mcp-and-xcodebuild-mcp-only-one-feels-complete/)
 - [I Caught My AI Agent Fabricating Data to Look Busy](https://samwize.com/2026/03/10/i-caught-my-ai-agent-fabricating-data-to-look-busy/)
 - [I Deprecated Dotfiles and Oh My Zsh, and Moved to Chezmoi](https://samwize.com/2026/02/13/i-deprecated-dotfiles-and-oh-my-zsh-and-moved-to-chezmoi/)
-- [Control Your Mac from Your iPhone &lpar;Safely&rpar;: Tailscale + SSH + tmux](https://samwize.com/2026/02/08/control-your-mac-from-your-iphone-safely-tailscale-ssh-tmux/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
