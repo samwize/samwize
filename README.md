@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [I Vibe Coded a Mac App to Fix Xcode 26.4 Simulator Paste](https://samwize.com/2026/04/04/i-vibe-coded-a-mac-app-to-fix-xcode-simulator-paste/)
 - [Xcode 26.4 Simulator Paste Is Broken: Here&#39;s the Workaround](https://samwize.com/2026/03/30/xcode-simulator-paste-broken-workaround/)
 - [My AI Agent Watched 359 Episodes of Point-Free So I Don&#39;t Have To](https://samwize.com/2026/03/28/i-used-an-ai-agent-to-watch-359-episodes-of-point-free-so-i-dont-have-to/)
 - [How to Set Up Chrome DevTools MCP for Claude Code](https://samwize.com/2026/03/26/how-to-set-up-chrome-devtools-mcp-for-claude-code/)
@@ -16,7 +17,6 @@
 - [AI Agents Write the Code Now. So What&#39;s a Developer For?](https://samwize.com/2026/03/24/ai-agents-write-the-code-now-so-whats-a-developer-for/)
 - [tmux cheatsheet](https://samwize.com/2026/03/23/tmux-cheatsheet/)
 - [How I Got Claude Code to Run Forever &lpar;Well, Almost&rpar;](https://samwize.com/2026/03/14/how-i-got-claude-code-to-monitor-slack-while-i-was-on-holiday/)
-- [Apple Xcode MCP vs XcodeBuild MCP: Which One Actually Helps an AI Agent Ship](https://samwize.com/2026/03/11/i-tried-apple-xcode-mcp-and-xcodebuild-mcp-only-one-feels-complete/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
