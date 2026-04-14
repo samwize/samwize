@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Helped Spring Clean My Mac and Freed 90 GB](https://samwize.com/2026/04/14/claude-helped-spring-clean-a-mac-and-freed-90gb/)
 - [I Vibe Coded a Mac App to Fix Xcode 26.4 Simulator Paste](https://samwize.com/2026/04/04/i-vibe-coded-a-mac-app-to-fix-xcode-simulator-paste/)
 - [Xcode 26.4 Simulator Paste Is Broken: Here&#39;s the Workaround](https://samwize.com/2026/03/30/xcode-simulator-paste-broken-workaround/)
 - [My AI Agent Watched 359 Episodes of Point-Free So I Don&#39;t Have To](https://samwize.com/2026/03/28/i-used-an-ai-agent-to-watch-359-episodes-of-point-free-so-i-dont-have-to/)
@@ -16,7 +17,6 @@
 - [What Your AI Code Reviewer Actually &lpar;Prompts&rpar; Behind Your Back](https://samwize.com/2026/03/25/what-your-ai-code-reviewer-actually-prompts-behind-your-back/)
 - [AI Agents Write the Code Now. So What&#39;s a Developer For?](https://samwize.com/2026/03/24/ai-agents-write-the-code-now-so-whats-a-developer-for/)
 - [tmux cheatsheet](https://samwize.com/2026/03/23/tmux-cheatsheet/)
-- [How I Got Claude Code to Run Forever &lpar;Well, Almost&rpar;](https://samwize.com/2026/03/14/how-i-got-claude-code-to-monitor-slack-while-i-was-on-holiday/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
