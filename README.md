@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to support multiple Slack workspaces on MCP for Claude Code](https://samwize.com/2026/06/27/claude-code-two-slack-workspaces/)
 - [Customizing Claude Code Memory](https://samwize.com/2026/04/23/customizing-claude-code-memory/)
 - [Codex Automations](https://samwize.com/2026/04/18/codex-automations-might-replace-my-diy-agent-loop/)
 - [Claude Helped Spring Clean My Mac and Freed 90 GB](https://samwize.com/2026/04/14/claude-helped-spring-clean-a-mac-and-freed-90gb/)
@@ -16,7 +17,6 @@
 - [Xcode 26.4 Simulator Paste Is Broken: Here&#39;s the Workaround](https://samwize.com/2026/03/30/xcode-simulator-paste-broken-workaround/)
 - [My AI Agent Watched 359 Episodes of Point-Free So I Don&#39;t Have To](https://samwize.com/2026/03/28/i-used-an-ai-agent-to-watch-359-episodes-of-point-free-so-i-dont-have-to/)
 - [How to Set Up Chrome DevTools MCP for Claude Code](https://samwize.com/2026/03/26/how-to-set-up-chrome-devtools-mcp-for-claude-code/)
-- [What Your AI Code Reviewer Actually &lpar;Prompts&rpar; Behind Your Back](https://samwize.com/2026/03/25/what-your-ai-code-reviewer-actually-prompts-behind-your-back/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
