@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [My Blog Had a Shrug Where Its Focus Should Have Been](https://samwize.com/2026/07/25/my-blog-had-a-shrug-where-its-focus-should-have-been/)
 - [The Codex App Lied to Me About /clear](https://samwize.com/2026/07/24/codex-app-lied-to-me-about-clear/)
 - [Developers Are the New Middle Management](https://samwize.com/2026/07/11/developers-are-the-new-middle-management/)
 - [How to support multiple Slack workspaces on MCP for Claude Code](https://samwize.com/2026/06/27/claude-code-two-slack-workspaces/)
@@ -16,7 +17,6 @@
 - [Codex Automations](https://samwize.com/2026/04/18/codex-automations-might-replace-my-diy-agent-loop/)
 - [Claude Helped Spring Clean My Mac and Freed 90 GB](https://samwize.com/2026/04/14/claude-helped-spring-clean-a-mac-and-freed-90gb/)
 - [I Vibe Coded a Mac App to Fix Xcode 26.4 Simulator Paste](https://samwize.com/2026/04/04/i-vibe-coded-a-mac-app-to-fix-xcode-simulator-paste/)
-- [Xcode 26.4 Simulator Paste Is Broken: Here&#39;s the Workaround](https://samwize.com/2026/03/30/xcode-simulator-paste-broken-workaround/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
