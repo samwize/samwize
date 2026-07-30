@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Was Wrong 5 of 6 Times Against Codex.](https://samwize.com/2026/07/30/claude-was-wrong-5-of-6-times-against-codex/)
 - [My Blog Had a Shrug Where Its Focus Should Have Been](https://samwize.com/2026/07/25/my-blog-had-a-shrug-where-its-focus-should-have-been/)
 - [The Codex App Lied to Me About /clear](https://samwize.com/2026/07/24/codex-app-lied-to-me-about-clear/)
 - [Developers Are the New Middle Management](https://samwize.com/2026/07/11/developers-are-the-new-middle-management/)
@@ -16,7 +17,6 @@
 - [Customizing Claude Code Memory](https://samwize.com/2026/04/23/customizing-claude-code-memory/)
 - [Codex Automations](https://samwize.com/2026/04/18/codex-automations-might-replace-my-diy-agent-loop/)
 - [Claude Helped Spring Clean My Mac and Freed 90 GB](https://samwize.com/2026/04/14/claude-helped-spring-clean-a-mac-and-freed-90gb/)
-- [I Vibe Coded a Mac App to Fix Xcode 26.4 Simulator Paste](https://samwize.com/2026/04/04/i-vibe-coded-a-mac-app-to-fix-xcode-simulator-paste/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
