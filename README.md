@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [I Shipped an iPhone Duo App Before I Had the Phone. Thanks, App Reviewer.](https://samwize.com/2026/10/20/i-launched-an-app-without-typing-a-line-of-code/)
 - [My Codex Harness: Project Overrides and Environment Setup](https://samwize.com/2026/10/19/my-codex-setup-needed-fewer-instructions/)
 - [I Built a Protractor for the iPhone Duo. Apple Rejected the Name.](https://samwize.com/2026/10/17/i-built-a-protractor-for-the-iphone-duo-apple-rejected-the-name/)
 - [Codex Now Has 500K Context &lpar;Depends on the Model&rpar;](https://samwize.com/2026/10/13/codex-context-windows-depend-on-the-model/)
@@ -16,7 +17,6 @@
 - [Claude Was Wrong 5 of 6 Times Against Codex.](https://samwize.com/2026/07/30/claude-was-wrong-5-of-6-times-against-codex/)
 - [My Blog Had a Shrug Where Its Focus Should Have Been](https://samwize.com/2026/07/25/my-blog-had-a-shrug-where-its-focus-should-have-been/)
 - [The Codex App Lied to Me About /clear](https://samwize.com/2026/07/24/codex-app-lied-to-me-about-clear/)
-- [Developers Are the New Middle Management](https://samwize.com/2026/07/11/developers-are-the-new-middle-management/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
