@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [My Claude Code Harness: Swap the Project CLAUDE.md for My Own](https://samwize.com/2026/11/11/claude-code-override-project-claude-md/)
 - [Where to Store Large Files for GitHub Repos: LFS, R2, S3 and iCloud](https://samwize.com/2026/11/09/keep-the-repo-light-fetch-the-big-files/)
 - [Skip, Day, and Rust: Why I&#39;d Still Choose Swift and Kotlin](https://samwize.com/2026/11/06/ai-changes-what-is-worth-sharing/)
 - [I Shipped an iPhone Duo App Before I Had the Phone. Thanks, App Reviewer.](https://samwize.com/2026/10/20/i-launched-an-app-without-typing-a-line-of-code/)
@@ -16,7 +17,6 @@
 - [I Built a Protractor for the iPhone Duo. Apple Rejected the Name.](https://samwize.com/2026/10/17/i-built-a-protractor-for-the-iphone-duo-apple-rejected-the-name/)
 - [Codex Now Has 500K Context &lpar;Depends on the Model&rpar;](https://samwize.com/2026/10/13/codex-context-windows-depend-on-the-model/)
 - [How Much Should Developers Invest in iPhone Duo?](https://samwize.com/2026/09/14/how-much-should-developers-invest-in-iphone-duo/)
-- [Claude Was Wrong 5 of 6 Times Against Codex.](https://samwize.com/2026/07/30/claude-was-wrong-5-of-6-times-against-codex/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
