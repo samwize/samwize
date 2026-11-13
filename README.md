@@ -9,6 +9,7 @@
 ## 📕 [Latest technical blog posts](https://samwize.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [PR Screenshots Don&#39;t Eat Your GitHub Repo&#39;s 10 GB](https://samwize.com/2026/11/13/github-pr-attachments-dont-count-toward-repo-storage/)
 - [My Claude Code Harness: Swap the Project CLAUDE.md for My Own](https://samwize.com/2026/11/11/claude-code-override-project-claude-md/)
 - [Where to Store Large Files for GitHub Repos: LFS, R2, S3 and iCloud](https://samwize.com/2026/11/09/keep-the-repo-light-fetch-the-big-files/)
 - [Skip, Day, and Rust: Why I&#39;d Still Choose Swift and Kotlin](https://samwize.com/2026/11/06/ai-changes-what-is-worth-sharing/)
@@ -16,7 +17,6 @@
 - [My Codex Harness: Project Overrides and Environment Setup](https://samwize.com/2026/10/19/my-codex-setup-needed-fewer-instructions/)
 - [I Built a Protractor for the iPhone Duo. Apple Rejected the Name.](https://samwize.com/2026/10/17/i-built-a-protractor-for-the-iphone-duo-apple-rejected-the-name/)
 - [Codex Now Has 500K Context &lpar;Depends on the Model&rpar;](https://samwize.com/2026/10/13/codex-context-windows-depend-on-the-model/)
-- [How Much Should Developers Invest in iPhone Duo?](https://samwize.com/2026/09/14/how-much-should-developers-invest-in-iphone-duo/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌏 Other websites
